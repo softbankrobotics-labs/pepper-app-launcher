@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">PepperLauncher</string>
+    <string name="exit_dialog_title">Exit ?</string>
+    <string name="exit_dialog_message">Return to the app launcher ?</string>
+    <string name="yes">YES</string>
+    <string name="no">NO</string>
+    <string name="denied">Access Denied</string>
+    <string name="retry">Retry with this new digit code</string>
+    <string name="loading">Loading Applications…</string>
+    <string name="topic">topic: ~topic()\n</string>
+
+    <string name="concept">
+        concept:(hello) [hello hi hey \"good morning\" greetings]\n
+        concept:(can_you) [\"[can will could] you {please}\"\"do you think you could\"\"are you [ready able] to\"\"do you know how to\"]\n
+        concept:(i_want_to) [\"I [\"want to\" wanna]\"]\n
+        concept:(want_to) [\"[want wish \"would [like love]\"] to\" wanna \"need {to}\"]\n
+        concept:(restart_application) [\"[restart \"start {again}\" reboot replay launch] {this the that} {software app application program dialog topic activity}\"
+        \"go back to the [beginning start]\"\"rewind please\"]\n
+    </string>
+
+    <string name="apps">
+        concept:(apk_names)[
+    </string>
+
+    <string name="hello">u:(~hello)%hi ~hello\n</string>
+    <string name="start">u:({~i_want_to ~can_you \"Let\'s\"} {~restart_application} _~apk_names) Let\'s start $1 ^execute(myExecutor, $1) </string>
+</resources>

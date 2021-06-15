@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/benoit.cordier/AndroidStudioProjects/pepper_app_launcher/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ldltr-v21/values-ldltr-v21.xml",
+            "map": [
+                {
+                    "source": "/home/benoit.cordier/.gradle/caches/transforms-2/files-2.1/3a4bf45ee1cd2799bf6d0559eb3917d7/appcompat-1.2.0/res/values-ldltr-v21/values-ldltr-v21.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "112",
+                        "endOffsets": "163"
+                    }
+                }
+            ]
+        }
+    ]
+}

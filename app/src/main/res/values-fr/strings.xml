@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">PepperLauncher</string>
+    <string name="exit_dialog_title">Sortir ?</string>
+    <string name="exit_dialog_message">Retourner sur app launcher ?</string>
+    <string name="yes">OUI</string>
+    <string name="no">NON</string>
+    <string name="denied">Accès Refusé</string>
+    <string name="retry">Réessayez avec ce nouveau digit code</string>
+    <string name="loading">Chargement des applications…</string>
+    <string name="topic">topic: ~topic()\n</string>
+    <string name="concept">concept:(hello) [bonjour salut hey hello coucou]\n
+        concept:(can_you) [~vb_ask_pouvoir ~vb_ask_savoir]\n
+        concept:(vb_ask_pouvoir) [\"est-ce que ~vb_pos_you_pouvoir\" ~vb_pos_you_pouvoir ~vb_int_you_pouvoir ~vb_neg_you_pouvoir]\n
+        concept:(vb_ask_savoir) [\"est-ce que ~vb_pos_you_savoir\" ~vb_pos_you_savoir ~vb_int_you_savoir ~vb_neg_you_savoir]\n
+        concept:(vb_pos_you_pouvoir) [\"tu [peux pourrais]\"]\n
+        concept:(vb_neg_you_pouvoir) [\"tu {ne} [peux pourrais] pas\"]\n
+        concept:(vb_int_you_pouvoir) [peux-tu pourrais-tu]\n
+        concept:(vb_pos_you_savoir) [\"tu [sais saurais]\"]\n
+        concept:(vb_neg_you_savoir) [\"tu {ne} [sais saurais] pas\"]\n
+        concept:(vb_int_you_savoir) [sais-tu saurais-tu]\n
+        concept:(i_want_to) [~vb_pos_i_vouloir \"~vb_pos_i_avoir envie de\" \"[\"je veux\" \"je voudrais\" \"j\'aurai voulu\" j\'aimerais \"je souhaiterais\" \"je souhaite\"] {faire effectuer}\" \"[c\'est \"ça serait\" \"ça aurait été\"] pour {faire effectuer}\" \"j\'ai envie {\"de faire\" \"d\'effectuer\"}\"]\n
+        concept:(vb_pos_i_vouloir) [\"je [veux voudrais]\"]\n
+        concept:(vb_pos_i_avoir) [j\'ai \"j\'en ai\"]\n
+        concept:(restart_application)
+        [
+            \"[recommence commence recommencer commencer relancer relance lancer lance redémarre démarre redémarrer démarrer] {\"cette application\" l\'application tout \"[le ce] [programme logiciel dialogue]\"}\"
+        ]\n
+    </string>
+
+    <string name="apps">
+        concept:(apk_names)[
+    </string>
+
+    <string name="hello">u:(~hello)%hi ~hello\n</string>
+    <string name="start">u:({~i_want_to ~can_you} {~restart_application} _~apk_names) Démarrons $1 ^execute(myExecutor, $1) </string>
+</resources>

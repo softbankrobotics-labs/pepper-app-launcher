@@ -1,0 +1,27 @@
+topic: ~welcome()
+
+# This topic is not used by the application.
+# The content of this topic has been converted to string file.
+# This topic's purpose is to show the standard syntax before the translation to strings.xml file
+
+concept:(hello) [hello hi hey "good morning" greetings]
+concept:(can_you) [
+    "[can will could] you {please}"
+    "do you think you could"
+    "are you [ready able] to"
+    "do you know how to"
+]
+concept:(i_want_to) ["I ["want to" wanna]" "[I'll I'd] [like love] to" "I wish [to "I can"]" "I'm looking {forward} to" "I {really} ~want_to"]
+concept:(want_to) ["[want wish "would [like love]"] to" wanna "need {to}"]
+concept:(restart_application) [
+    "[restart "start {again}" reboot replay launch] {this the that} {software app application program dialog topic activity}"
+    "go back to the [beginning start]"
+    "rewind please"
+]
+
+concept:(apk_names) []
+
+# Replying to speech
+u:(~hello) %hi ~hello
+
+u:({~i_want_to ~can_you "Let's"} {~restart_application} _-apk_names) Let's start $1 ^execute(myExecutor, $1)

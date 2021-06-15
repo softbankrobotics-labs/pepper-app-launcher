@@ -1,0 +1,154 @@
+[
+    {
+        "merged": "/home/benoit.cordier/AndroidStudioProjects/pepper_app_launcher/app/build/intermediates/res/merged/debug/drawable-hdpi_ui_white_rounded.xml.flat",
+        "source": "/home/benoit.cordier/AndroidStudioProjects/pepper_app_launcher/app/src/main/res/drawable-hdpi/ui_white_rounded.xml"
+    },
+    {
+        "merged": "/home/benoit.cordier/AndroidStudioProjects/pepper_app_launcher/app/build/intermediates/res/merged/debug/layout_close_popup.xml.flat",
+        "source": "/home/benoit.cordier/AndroidStudioProjects/pepper_app_launcher/app/src/main/res/layout/close_popup.xml"
+    },
+    {
+        "merged": "/home/benoit.cordier/AndroidStudioProjects/pepper_app_launcher/app/build/intermediates/res/merged/debug/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "/home/benoit.cordier/AndroidStudioProjects/pepper_app_launcher/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "/home/benoit.cordier/AndroidStudioProjects/pepper_app_launcher/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "/home/benoit.cordier/AndroidStudioProjects/pepper_app_launcher/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/home/benoit.cordier/AndroidStudioProjects/pepper_app_launcher/app/build/intermediates/res/merged/debug/drawable_ui_sbr.png.flat",
+        "source": "/home/benoit.cordier/AndroidStudioProjects/pepper_app_launcher/app/src/main/res/drawable/ui_sbr.png"
+    },
+    {
+        "merged": "/home/benoit.cordier/AndroidStudioProjects/pepper_app_launcher/app/build/intermediates/res/merged/debug/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "/home/benoit.cordier/AndroidStudioProjects/pepper_app_launcher/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "/home/benoit.cordier/AndroidStudioProjects/pepper_app_launcher/app/build/intermediates/res/merged/debug/drawable_ic_close.xml.flat",
+        "source": "/home/benoit.cordier/AndroidStudioProjects/pepper_app_launcher/app/src/main/res/drawable/ic_close.xml"
+    },
+    {
+        "merged": "/home/benoit.cordier/AndroidStudioProjects/pepper_app_launcher/app/build/intermediates/res/merged/debug/drawable-anydpi_ui_white_r10.xml.flat",
+        "source": "/home/benoit.cordier/AndroidStudioProjects/pepper_app_launcher/app/src/main/res/drawable-anydpi/ui_white_r10.xml"
+    },
+    {
+        "merged": "/home/benoit.cordier/AndroidStudioProjects/pepper_app_launcher/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "/home/benoit.cordier/AndroidStudioProjects/pepper_app_launcher/app/src/main/res/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/home/benoit.cordier/AndroidStudioProjects/pepper_app_launcher/app/build/intermediates/res/merged/debug/layout_close_button.xml.flat",
+        "source": "/home/benoit.cordier/AndroidStudioProjects/pepper_app_launcher/app/src/main/res/layout/close_button.xml"
+    },
+    {
+        "merged": "/home/benoit.cordier/AndroidStudioProjects/pepper_app_launcher/app/build/intermediates/res/merged/debug/drawable-hdpi_lang_fr.png.flat",
+        "source": "/home/benoit.cordier/AndroidStudioProjects/pepper_app_launcher/app/src/main/res/drawable-hdpi/lang_fr.png"
+    },
+    {
+        "merged": "/home/benoit.cordier/AndroidStudioProjects/pepper_app_launcher/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "/home/benoit.cordier/AndroidStudioProjects/pepper_app_launcher/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/home/benoit.cordier/AndroidStudioProjects/pepper_app_launcher/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "/home/benoit.cordier/AndroidStudioProjects/pepper_app_launcher/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/home/benoit.cordier/AndroidStudioProjects/pepper_app_launcher/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "/home/benoit.cordier/AndroidStudioProjects/pepper_app_launcher/app/src/main/res/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/home/benoit.cordier/AndroidStudioProjects/pepper_app_launcher/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_settings_grey.png.flat",
+        "source": "/home/benoit.cordier/AndroidStudioProjects/pepper_app_launcher/app/src/main/res/drawable-xxhdpi/ic_settings_grey.png"
+    },
+    {
+        "merged": "/home/benoit.cordier/AndroidStudioProjects/pepper_app_launcher/app/build/intermediates/res/merged/debug/layout_activity_main.xml.flat",
+        "source": "/home/benoit.cordier/AndroidStudioProjects/pepper_app_launcher/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/home/benoit.cordier/AndroidStudioProjects/pepper_app_launcher/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_settings_grey.png.flat",
+        "source": "/home/benoit.cordier/AndroidStudioProjects/pepper_app_launcher/app/src/main/res/drawable-mdpi/ic_settings_grey.png"
+    },
+    {
+        "merged": "/home/benoit.cordier/AndroidStudioProjects/pepper_app_launcher/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "/home/benoit.cordier/AndroidStudioProjects/pepper_app_launcher/app/src/main/res/mipmap-xxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/home/benoit.cordier/AndroidStudioProjects/pepper_app_launcher/app/build/intermediates/res/merged/debug/drawable-hdpi_lang_gr.png.flat",
+        "source": "/home/benoit.cordier/AndroidStudioProjects/pepper_app_launcher/app/src/main/res/drawable-hdpi/lang_gr.png"
+    },
+    {
+        "merged": "/home/benoit.cordier/AndroidStudioProjects/pepper_app_launcher/app/build/intermediates/res/merged/debug/drawable-hdpi_lang_es.png.flat",
+        "source": "/home/benoit.cordier/AndroidStudioProjects/pepper_app_launcher/app/src/main/res/drawable-hdpi/lang_es.png"
+    },
+    {
+        "merged": "/home/benoit.cordier/AndroidStudioProjects/pepper_app_launcher/app/build/intermediates/res/merged/debug/drawable-anydpi_ui_red_outlined_r50.xml.flat",
+        "source": "/home/benoit.cordier/AndroidStudioProjects/pepper_app_launcher/app/src/main/res/drawable-anydpi/ui_red_outlined_r50.xml"
+    },
+    {
+        "merged": "/home/benoit.cordier/AndroidStudioProjects/pepper_app_launcher/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "/home/benoit.cordier/AndroidStudioProjects/pepper_app_launcher/app/src/main/res/mipmap-hdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/home/benoit.cordier/AndroidStudioProjects/pepper_app_launcher/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "/home/benoit.cordier/AndroidStudioProjects/pepper_app_launcher/app/src/main/res/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/benoit.cordier/AndroidStudioProjects/pepper_app_launcher/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "/home/benoit.cordier/AndroidStudioProjects/pepper_app_launcher/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/benoit.cordier/AndroidStudioProjects/pepper_app_launcher/app/build/intermediates/res/merged/debug/drawable-anydpi_ui_red_outlined_r10.xml.flat",
+        "source": "/home/benoit.cordier/AndroidStudioProjects/pepper_app_launcher/app/src/main/res/drawable-anydpi/ui_red_outlined_r10.xml"
+    },
+    {
+        "merged": "/home/benoit.cordier/AndroidStudioProjects/pepper_app_launcher/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_settings_grey.png.flat",
+        "source": "/home/benoit.cordier/AndroidStudioProjects/pepper_app_launcher/app/src/main/res/drawable-xhdpi/ic_settings_grey.png"
+    },
+    {
+        "merged": "/home/benoit.cordier/AndroidStudioProjects/pepper_app_launcher/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "/home/benoit.cordier/AndroidStudioProjects/pepper_app_launcher/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/benoit.cordier/AndroidStudioProjects/pepper_app_launcher/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "/home/benoit.cordier/AndroidStudioProjects/pepper_app_launcher/app/src/main/res/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/benoit.cordier/AndroidStudioProjects/pepper_app_launcher/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_settings_grey.png.flat",
+        "source": "/home/benoit.cordier/AndroidStudioProjects/pepper_app_launcher/app/src/main/res/drawable-hdpi/ic_settings_grey.png"
+    },
+    {
+        "merged": "/home/benoit.cordier/AndroidStudioProjects/pepper_app_launcher/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "/home/benoit.cordier/AndroidStudioProjects/pepper_app_launcher/app/src/main/res/mipmap-xxxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/home/benoit.cordier/AndroidStudioProjects/pepper_app_launcher/app/build/intermediates/res/merged/debug/raw_welcome.top.flat",
+        "source": "/home/benoit.cordier/AndroidStudioProjects/pepper_app_launcher/app/src/main/res/raw/welcome.top"
+    },
+    {
+        "merged": "/home/benoit.cordier/AndroidStudioProjects/pepper_app_launcher/app/build/intermediates/res/merged/debug/drawable-hdpi_lang_uk.png.flat",
+        "source": "/home/benoit.cordier/AndroidStudioProjects/pepper_app_launcher/app/src/main/res/drawable-hdpi/lang_uk.png"
+    },
+    {
+        "merged": "/home/benoit.cordier/AndroidStudioProjects/pepper_app_launcher/app/build/intermediates/res/merged/debug/drawable_ic_launcher_foreground.xml.flat",
+        "source": "/home/benoit.cordier/AndroidStudioProjects/pepper_app_launcher/app/src/main/res/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "/home/benoit.cordier/AndroidStudioProjects/pepper_app_launcher/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "/home/benoit.cordier/AndroidStudioProjects/pepper_app_launcher/app/src/main/res/mipmap-xhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/home/benoit.cordier/AndroidStudioProjects/pepper_app_launcher/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "/home/benoit.cordier/AndroidStudioProjects/pepper_app_launcher/app/src/main/res/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/benoit.cordier/AndroidStudioProjects/pepper_app_launcher/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "/home/benoit.cordier/AndroidStudioProjects/pepper_app_launcher/app/src/main/res/mipmap-mdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/home/benoit.cordier/AndroidStudioProjects/pepper_app_launcher/app/build/intermediates/res/merged/debug/drawable-anydpi_ui_white_r30.xml.flat",
+        "source": "/home/benoit.cordier/AndroidStudioProjects/pepper_app_launcher/app/src/main/res/drawable-anydpi/ui_white_r30.xml"
+    },
+    {
+        "merged": "/home/benoit.cordier/AndroidStudioProjects/pepper_app_launcher/app/build/intermediates/res/merged/debug/drawable-anydpi_ic_settings_grey.xml.flat",
+        "source": "/home/benoit.cordier/AndroidStudioProjects/pepper_app_launcher/app/src/main/res/drawable-anydpi/ic_settings_grey.xml"
+    }
+]

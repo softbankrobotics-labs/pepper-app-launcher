@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <string msgid="5976598919945601918" name="abc_action_bar_home_description">"Revenir à l\'accueil"</string>
+    <string msgid="8388173803310557296" name="abc_action_bar_up_description">"Revenir en haut de la page"</string>
+    <string msgid="3937310113216875497" name="abc_action_menu_overflow_description">"Autres options"</string>
+    <string msgid="4692188335987374352" name="abc_action_mode_done">"OK"</string>
+    <string msgid="1189761859438369441" name="abc_activity_chooser_view_see_all">"Tout afficher"</string>
+    <string msgid="2165779757652331008" name="abc_activitychooserview_choose_application">"Sélectionner une application"</string>
+    <string msgid="4215997306490295099" name="abc_capital_off">"NON"</string>
+    <string msgid="884982626291842264" name="abc_capital_on">"OUI"</string>
+    <string msgid="8833365367933412986" name="abc_menu_alt_shortcut_label">"Alt+"</string>
+    <string msgid="2223301931652355242" name="abc_menu_ctrl_shortcut_label">"Ctrl+"</string>
+    <string msgid="838001238306846836" name="abc_menu_delete_shortcut_label">"supprimer"</string>
+    <string msgid="7986526966204849475" name="abc_menu_enter_shortcut_label">"entrée"</string>
+    <string msgid="375214403600139847" name="abc_menu_function_shortcut_label">"Fonction+"</string>
+    <string msgid="4192209724446364286" name="abc_menu_meta_shortcut_label">"Méta+"</string>
+    <string msgid="4741552369836443843" name="abc_menu_shift_shortcut_label">"Maj+"</string>
+    <string msgid="5473865519181928982" name="abc_menu_space_shortcut_label">"espace"</string>
+    <string msgid="6180552449598693998" name="abc_menu_sym_shortcut_label">"Sym+"</string>
+    <string msgid="5520303668377388990" name="abc_prepend_shortcut_label">"Menu+"</string>
+    <string msgid="7208076849092622260" name="abc_search_hint">"Rechercher…"</string>
+    <string msgid="3741173234950517107" name="abc_searchview_description_clear">"Effacer la requête"</string>
+    <string msgid="693312494995508443" name="abc_searchview_description_query">"Requête de recherche"</string>
+    <string msgid="3417662926640357176" name="abc_searchview_description_search">"Rechercher"</string>
+    <string msgid="1486535517437947103" name="abc_searchview_description_submit">"Envoyer la requête"</string>
+    <string msgid="2293578557972875415" name="abc_searchview_description_voice">"Recherche vocale"</string>
+    <string msgid="8875138169939072951" name="abc_shareactionprovider_share_with">"Partager avec"</string>
+    <string msgid="9055268688411532828" name="abc_shareactionprovider_share_with_application">"Partager avec <ns1:g id="APPLICATION_NAME">%s</ns1:g>"</string>
+    <string msgid="1656852541809559762" name="abc_toolbar_collapse_description">"Réduire"</string>
+    <string name="app_name">PepperLauncher</string>
+    <string name="apps">
+        concept:(apk_names)[
+    </string>
+    <string name="concept">concept:(hello) [bonjour salut hey hello coucou]\n
+        concept:(can_you) [~vb_ask_pouvoir ~vb_ask_savoir]\n
+        concept:(vb_ask_pouvoir) [\"est-ce que ~vb_pos_you_pouvoir\" ~vb_pos_you_pouvoir ~vb_int_you_pouvoir ~vb_neg_you_pouvoir]\n
+        concept:(vb_ask_savoir) [\"est-ce que ~vb_pos_you_savoir\" ~vb_pos_you_savoir ~vb_int_you_savoir ~vb_neg_you_savoir]\n
+        concept:(vb_pos_you_pouvoir) [\"tu [peux pourrais]\"]\n
+        concept:(vb_neg_you_pouvoir) [\"tu {ne} [peux pourrais] pas\"]\n
+        concept:(vb_int_you_pouvoir) [peux-tu pourrais-tu]\n
+        concept:(vb_pos_you_savoir) [\"tu [sais saurais]\"]\n
+        concept:(vb_neg_you_savoir) [\"tu {ne} [sais saurais] pas\"]\n
+        concept:(vb_int_you_savoir) [sais-tu saurais-tu]\n
+        concept:(i_want_to) [~vb_pos_i_vouloir \"~vb_pos_i_avoir envie de\" \"[\"je veux\" \"je voudrais\" \"j\'aurai voulu\" j\'aimerais \"je souhaiterais\" \"je souhaite\"] {faire effectuer}\" \"[c\'est \"ça serait\" \"ça aurait été\"] pour {faire effectuer}\" \"j\'ai envie {\"de faire\" \"d\'effectuer\"}\"]\n
+        concept:(vb_pos_i_vouloir) [\"je [veux voudrais]\"]\n
+        concept:(vb_pos_i_avoir) [j\'ai \"j\'en ai\"]\n
+        concept:(restart_application)
+        [
+            \"[recommence commence recommencer commencer relancer relance lancer lance redémarre démarre redémarrer démarrer] {\"cette application\" l\'application tout \"[le ce] [programme logiciel dialogue]\"}\"
+        ]\n
+    </string>
+    <string name="denied">Accès Refusé</string>
+    <string name="exit_dialog_message">Retourner sur app launcher ?</string>
+    <string name="exit_dialog_title">Sortir ?</string>
+    <string name="hello">u:(~hello)%hi ~hello\n</string>
+    <string name="loading">Chargement des applications…</string>
+    <string name="no">NON</string>
+    <string name="retry">Réessayez avec ce nouveau digit code</string>
+    <string msgid="6264217191555673260" name="search_menu_title">"Rechercher"</string>
+    <string name="start">u:({~i_want_to ~can_you} {~restart_application} _~apk_names) Démarrons $1 ^execute(myExecutor, $1) </string>
+    <string msgid="6277540029070332960" name="status_bar_notification_info_overflow">"999+"</string>
+    <string name="topic">topic: ~topic()\n</string>
+    <string name="yes">OUI</string>
+</resources>

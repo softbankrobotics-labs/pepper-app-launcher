@@ -1,0 +1,200 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/benoit.cordier/AndroidStudioProjects/pepper_app_launcher/app/src/main/AndroidManifest.xml:2:1-27:12
+INJECTED from /home/benoit.cordier/AndroidStudioProjects/pepper_app_launcher/app/src/main/AndroidManifest.xml:2:1-27:12
+INJECTED from /home/benoit.cordier/AndroidStudioProjects/pepper_app_launcher/app/src/main/AndroidManifest.xml:2:1-27:12
+INJECTED from /home/benoit.cordier/AndroidStudioProjects/pepper_app_launcher/app/src/main/AndroidManifest.xml:2:1-27:12
+MERGED from [com.aldebaran:qisdk-design:1.7.5] /home/benoit.cordier/.gradle/caches/transforms-2/files-2.1/73bf0dfbffd514ab524f65a711cc4e51/jetified-qisdk-design-1.7.5/AndroidManifest.xml:2:1-10:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] /home/benoit.cordier/.gradle/caches/transforms-2/files-2.1/d034ca2bdf28b835f4b3742d85d787a3/constraintlayout-2.0.4/AndroidManifest.xml:2:1-11:12
+MERGED from [com.chaos.view:pinview:1.4.2] /home/benoit.cordier/.gradle/caches/transforms-2/files-2.1/45e836c9c7e5977309698f2cf42f0246/jetified-pinview-1.4.2/AndroidManifest.xml:17:1-26:12
+MERGED from [com.airbnb.android:lottie:2.7.0] /home/benoit.cordier/.gradle/caches/transforms-2/files-2.1/7ba6b798a69d10a36cb42a8e8ae667fe/jetified-lottie-2.7.0/AndroidManifest.xml:2:1-13:12
+MERGED from [androidx.appcompat:appcompat:1.2.0] /home/benoit.cordier/.gradle/caches/transforms-2/files-2.1/3a4bf45ee1cd2799bf6d0559eb3917d7/appcompat-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [net.yslibrary.keyboardvisibilityevent:keyboardvisibilityevent:2.3.0] /home/benoit.cordier/.gradle/caches/transforms-2/files-2.1/a94572d373ea5138039995efcc82d9c0/jetified-keyboardvisibilityevent-2.3.0/AndroidManifest.xml:2:1-11:12
+MERGED from [com.aldebaran:qisdk:1.7.5] /home/benoit.cordier/.gradle/caches/transforms-2/files-2.1/3e7cbaf5819d3dc515264b0e0ffca731/jetified-qisdk-1.7.5/AndroidManifest.xml:2:1-21:12
+MERGED from [androidx.fragment:fragment:1.1.0] /home/benoit.cordier/.gradle/caches/transforms-2/files-2.1/ce61250d0f7070aaab97d5c03ab2ab2e/fragment-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] /home/benoit.cordier/.gradle/caches/transforms-2/files-2.1/5a84463fe3bd90b9ee3ed76258f5efd9/jetified-appcompat-resources-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/benoit.cordier/.gradle/caches/transforms-2/files-2.1/385ad0333dd34005ac3b322f68c176b9/drawerlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/benoit.cordier/.gradle/caches/transforms-2/files-2.1/32e32c376d22cae962a95f2aba892822/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /home/benoit.cordier/.gradle/caches/transforms-2/files-2.1/c3d8ec33b66c793058ded980a54c4fd5/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0] /home/benoit.cordier/.gradle/caches/transforms-2/files-2.1/4d3e32c2f901863288c7ff80fcf0967a/jetified-activity-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/benoit.cordier/.gradle/caches/transforms-2/files-2.1/3cf213e33fb5a76421a4e937ff33f07e/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/benoit.cordier/.gradle/caches/transforms-2/files-2.1/bde687302d742df89f7d227a2e48b0d9/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.0.0] /home/benoit.cordier/.gradle/caches/transforms-2/files-2.1/e968a555a0e08b03627a3441cae31e6b/customview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.3.1] /home/benoit.cordier/.gradle/caches/transforms-2/files-2.1/905808b10bc47511b6c6896a37787f2b/core-1.3.1/AndroidManifest.xml:17:1-26:12
+MERGED from [com.aldebaran:qisdk-model:1.7.5] /home/benoit.cordier/.gradle/caches/transforms-2/files-2.1/8df7de83e7b7bf52c164cda9dfb8ccf1/jetified-qisdk-model-1.7.5/AndroidManifest.xml:2:1-10:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/benoit.cordier/.gradle/caches/transforms-2/files-2.1/28174e475fcfd6ae966ed5772f6694ac/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/benoit.cordier/.gradle/caches/transforms-2/files-2.1/3c1a5ebf565097fe10667d6b9a2c1703/versionedparcelable-1.1.0/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /home/benoit.cordier/.gradle/caches/transforms-2/files-2.1/3f5e37635a712470204c0315e55f1003/lifecycle-runtime-2.1.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /home/benoit.cordier/.gradle/caches/transforms-2/files-2.1/552d05fff7df0b1caee9db39c74659fe/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] /home/benoit.cordier/.gradle/caches/transforms-2/files-2.1/8a52da53b02a83b08615debb9b2e109c/jetified-savedstate-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/benoit.cordier/.gradle/caches/transforms-2/files-2.1/3e5d045fdd42de39d437ce94a2ff87c7/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/benoit.cordier/.gradle/caches/transforms-2/files-2.1/ed8cc0ac00b11c0234ef1e5a578c70c1/lifecycle-livedata-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/benoit.cordier/.gradle/caches/transforms-2/files-2.1/df4d09f70e3f533a2fede8f96085147c/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/benoit.cordier/.gradle/caches/transforms-2/files-2.1/c16c855844b564ee7204d4d6005470fb/core-runtime-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.aldebaran:qisdk-core:1.7.5] /home/benoit.cordier/.gradle/caches/transforms-2/files-2.1/c6ff4ffcbd7ecf5f58145b9a7ce178c5/jetified-qisdk-core-1.7.5/AndroidManifest.xml:2:1-10:12
+MERGED from [com.aldebaran:robotservice-client:2.1.2] /home/benoit.cordier/.gradle/caches/transforms-2/files-2.1/0b50e015896edb63f491c51b2d1b7e88/jetified-robotservice-client-2.1.2/AndroidManifest.xml:2:1-10:12
+INJECTED from /home/benoit.cordier/AndroidStudioProjects/pepper_app_launcher/app/src/main/AndroidManifest.xml:2:1-27:12
+INJECTED from /home/benoit.cordier/AndroidStudioProjects/pepper_app_launcher/app/src/main/AndroidManifest.xml:2:1-27:12
+INJECTED from /home/benoit.cordier/AndroidStudioProjects/pepper_app_launcher/app/src/main/AndroidManifest.xml:2:1-27:12
+	package
+		ADDED from /home/benoit.cordier/AndroidStudioProjects/pepper_app_launcher/app/src/main/AndroidManifest.xml:4:5-53
+		INJECTED from /home/benoit.cordier/AndroidStudioProjects/pepper_app_launcher/app/src/main/AndroidManifest.xml
+		INJECTED from /home/benoit.cordier/AndroidStudioProjects/pepper_app_launcher/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/benoit.cordier/AndroidStudioProjects/pepper_app_launcher/app/src/main/AndroidManifest.xml
+		ADDED from /home/benoit.cordier/AndroidStudioProjects/pepper_app_launcher/app/src/main/AndroidManifest.xml:2:1-27:12
+		INJECTED from /home/benoit.cordier/AndroidStudioProjects/pepper_app_launcher/app/src/main/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /home/benoit.cordier/AndroidStudioProjects/pepper_app_launcher/app/src/main/AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from /home/benoit.cordier/AndroidStudioProjects/pepper_app_launcher/app/src/main/AndroidManifest.xml
+		ADDED from /home/benoit.cordier/AndroidStudioProjects/pepper_app_launcher/app/src/main/AndroidManifest.xml:2:1-27:12
+		INJECTED from /home/benoit.cordier/AndroidStudioProjects/pepper_app_launcher/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/benoit.cordier/AndroidStudioProjects/pepper_app_launcher/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from /home/benoit.cordier/AndroidStudioProjects/pepper_app_launcher/app/src/main/AndroidManifest.xml:5:5-78
+	android:name
+		ADDED from /home/benoit.cordier/AndroidStudioProjects/pepper_app_launcher/app/src/main/AndroidManifest.xml:5:22-75
+application
+ADDED from /home/benoit.cordier/AndroidStudioProjects/pepper_app_launcher/app/src/main/AndroidManifest.xml:7:5-24:19
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] /home/benoit.cordier/.gradle/caches/transforms-2/files-2.1/d034ca2bdf28b835f4b3742d85d787a3/constraintlayout-2.0.4/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] /home/benoit.cordier/.gradle/caches/transforms-2/files-2.1/d034ca2bdf28b835f4b3742d85d787a3/constraintlayout-2.0.4/AndroidManifest.xml:9:5-20
+MERGED from [com.chaos.view:pinview:1.4.2] /home/benoit.cordier/.gradle/caches/transforms-2/files-2.1/45e836c9c7e5977309698f2cf42f0246/jetified-pinview-1.4.2/AndroidManifest.xml:24:5-20
+MERGED from [com.chaos.view:pinview:1.4.2] /home/benoit.cordier/.gradle/caches/transforms-2/files-2.1/45e836c9c7e5977309698f2cf42f0246/jetified-pinview-1.4.2/AndroidManifest.xml:24:5-20
+MERGED from [com.airbnb.android:lottie:2.7.0] /home/benoit.cordier/.gradle/caches/transforms-2/files-2.1/7ba6b798a69d10a36cb42a8e8ae667fe/jetified-lottie-2.7.0/AndroidManifest.xml:11:5-20
+MERGED from [com.airbnb.android:lottie:2.7.0] /home/benoit.cordier/.gradle/caches/transforms-2/files-2.1/7ba6b798a69d10a36cb42a8e8ae667fe/jetified-lottie-2.7.0/AndroidManifest.xml:11:5-20
+MERGED from [com.aldebaran:qisdk:1.7.5] /home/benoit.cordier/.gradle/caches/transforms-2/files-2.1/3e7cbaf5819d3dc515264b0e0ffca731/jetified-qisdk-1.7.5/AndroidManifest.xml:13:5-19:19
+MERGED from [com.aldebaran:qisdk:1.7.5] /home/benoit.cordier/.gradle/caches/transforms-2/files-2.1/3e7cbaf5819d3dc515264b0e0ffca731/jetified-qisdk-1.7.5/AndroidManifest.xml:13:5-19:19
+MERGED from [androidx.core:core:1.3.1] /home/benoit.cordier/.gradle/caches/transforms-2/files-2.1/905808b10bc47511b6c6896a37787f2b/core-1.3.1/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.3.1] /home/benoit.cordier/.gradle/caches/transforms-2/files-2.1/905808b10bc47511b6c6896a37787f2b/core-1.3.1/AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/benoit.cordier/.gradle/caches/transforms-2/files-2.1/3c1a5ebf565097fe10667d6b9a2c1703/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/benoit.cordier/.gradle/caches/transforms-2/files-2.1/3c1a5ebf565097fe10667d6b9a2c1703/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.3.1] /home/benoit.cordier/.gradle/caches/transforms-2/files-2.1/905808b10bc47511b6c6896a37787f2b/core-1.3.1/AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from /home/benoit.cordier/AndroidStudioProjects/pepper_app_launcher/app/src/main/AndroidManifest.xml:12:9-35
+	android:label
+		ADDED from /home/benoit.cordier/AndroidStudioProjects/pepper_app_launcher/app/src/main/AndroidManifest.xml:10:9-41
+	tools:ignore
+		ADDED from /home/benoit.cordier/AndroidStudioProjects/pepper_app_launcher/app/src/main/AndroidManifest.xml:14:9-48
+	android:roundIcon
+		ADDED from /home/benoit.cordier/AndroidStudioProjects/pepper_app_launcher/app/src/main/AndroidManifest.xml:11:9-54
+	android:icon
+		ADDED from /home/benoit.cordier/AndroidStudioProjects/pepper_app_launcher/app/src/main/AndroidManifest.xml:9:9-43
+	android:allowBackup
+		ADDED from /home/benoit.cordier/AndroidStudioProjects/pepper_app_launcher/app/src/main/AndroidManifest.xml:8:9-35
+	android:theme
+		ADDED from /home/benoit.cordier/AndroidStudioProjects/pepper_app_launcher/app/src/main/AndroidManifest.xml:13:9-65
+service#com.softbankrobotics.pepperapplauncher.OverlayPopupService
+ADDED from /home/benoit.cordier/AndroidStudioProjects/pepper_app_launcher/app/src/main/AndroidManifest.xml:15:9-56
+	android:name
+		ADDED from /home/benoit.cordier/AndroidStudioProjects/pepper_app_launcher/app/src/main/AndroidManifest.xml:15:18-53
+service#com.softbankrobotics.pepperapplauncher.OverlayBtnCloseService
+ADDED from /home/benoit.cordier/AndroidStudioProjects/pepper_app_launcher/app/src/main/AndroidManifest.xml:16:9-58
+	android:name
+		ADDED from /home/benoit.cordier/AndroidStudioProjects/pepper_app_launcher/app/src/main/AndroidManifest.xml:16:18-56
+activity#com.softbankrobotics.pepperapplauncher.MainActivity
+ADDED from /home/benoit.cordier/AndroidStudioProjects/pepper_app_launcher/app/src/main/AndroidManifest.xml:17:9-23:20
+	android:name
+		ADDED from /home/benoit.cordier/AndroidStudioProjects/pepper_app_launcher/app/src/main/AndroidManifest.xml:17:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/benoit.cordier/AndroidStudioProjects/pepper_app_launcher/app/src/main/AndroidManifest.xml:18:13-22:29
+action#android.intent.action.MAIN
+ADDED from /home/benoit.cordier/AndroidStudioProjects/pepper_app_launcher/app/src/main/AndroidManifest.xml:19:17-69
+	android:name
+		ADDED from /home/benoit.cordier/AndroidStudioProjects/pepper_app_launcher/app/src/main/AndroidManifest.xml:19:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/benoit.cordier/AndroidStudioProjects/pepper_app_launcher/app/src/main/AndroidManifest.xml:21:17-77
+	android:name
+		ADDED from /home/benoit.cordier/AndroidStudioProjects/pepper_app_launcher/app/src/main/AndroidManifest.xml:21:27-74
+uses-feature#com.softbank.hardware.pepper
+ADDED from /home/benoit.cordier/AndroidStudioProjects/pepper_app_launcher/app/src/main/AndroidManifest.xml:26:5-64
+	android:name
+		ADDED from /home/benoit.cordier/AndroidStudioProjects/pepper_app_launcher/app/src/main/AndroidManifest.xml:26:19-62
+uses-sdk
+INJECTED from /home/benoit.cordier/AndroidStudioProjects/pepper_app_launcher/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/benoit.cordier/AndroidStudioProjects/pepper_app_launcher/app/src/main/AndroidManifest.xml
+INJECTED from /home/benoit.cordier/AndroidStudioProjects/pepper_app_launcher/app/src/main/AndroidManifest.xml
+MERGED from [com.aldebaran:qisdk-design:1.7.5] /home/benoit.cordier/.gradle/caches/transforms-2/files-2.1/73bf0dfbffd514ab524f65a711cc4e51/jetified-qisdk-design-1.7.5/AndroidManifest.xml:6:5-8:41
+MERGED from [com.aldebaran:qisdk-design:1.7.5] /home/benoit.cordier/.gradle/caches/transforms-2/files-2.1/73bf0dfbffd514ab524f65a711cc4e51/jetified-qisdk-design-1.7.5/AndroidManifest.xml:6:5-8:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] /home/benoit.cordier/.gradle/caches/transforms-2/files-2.1/d034ca2bdf28b835f4b3742d85d787a3/constraintlayout-2.0.4/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] /home/benoit.cordier/.gradle/caches/transforms-2/files-2.1/d034ca2bdf28b835f4b3742d85d787a3/constraintlayout-2.0.4/AndroidManifest.xml:5:5-7:41
+MERGED from [com.chaos.view:pinview:1.4.2] /home/benoit.cordier/.gradle/caches/transforms-2/files-2.1/45e836c9c7e5977309698f2cf42f0246/jetified-pinview-1.4.2/AndroidManifest.xml:20:5-22:41
+MERGED from [com.chaos.view:pinview:1.4.2] /home/benoit.cordier/.gradle/caches/transforms-2/files-2.1/45e836c9c7e5977309698f2cf42f0246/jetified-pinview-1.4.2/AndroidManifest.xml:20:5-22:41
+MERGED from [com.airbnb.android:lottie:2.7.0] /home/benoit.cordier/.gradle/caches/transforms-2/files-2.1/7ba6b798a69d10a36cb42a8e8ae667fe/jetified-lottie-2.7.0/AndroidManifest.xml:7:5-9:41
+MERGED from [com.airbnb.android:lottie:2.7.0] /home/benoit.cordier/.gradle/caches/transforms-2/files-2.1/7ba6b798a69d10a36cb42a8e8ae667fe/jetified-lottie-2.7.0/AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.appcompat:appcompat:1.2.0] /home/benoit.cordier/.gradle/caches/transforms-2/files-2.1/3a4bf45ee1cd2799bf6d0559eb3917d7/appcompat-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.2.0] /home/benoit.cordier/.gradle/caches/transforms-2/files-2.1/3a4bf45ee1cd2799bf6d0559eb3917d7/appcompat-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [net.yslibrary.keyboardvisibilityevent:keyboardvisibilityevent:2.3.0] /home/benoit.cordier/.gradle/caches/transforms-2/files-2.1/a94572d373ea5138039995efcc82d9c0/jetified-keyboardvisibilityevent-2.3.0/AndroidManifest.xml:7:5-9:41
+MERGED from [net.yslibrary.keyboardvisibilityevent:keyboardvisibilityevent:2.3.0] /home/benoit.cordier/.gradle/caches/transforms-2/files-2.1/a94572d373ea5138039995efcc82d9c0/jetified-keyboardvisibilityevent-2.3.0/AndroidManifest.xml:7:5-9:41
+MERGED from [com.aldebaran:qisdk:1.7.5] /home/benoit.cordier/.gradle/caches/transforms-2/files-2.1/3e7cbaf5819d3dc515264b0e0ffca731/jetified-qisdk-1.7.5/AndroidManifest.xml:6:5-8:41
+MERGED from [com.aldebaran:qisdk:1.7.5] /home/benoit.cordier/.gradle/caches/transforms-2/files-2.1/3e7cbaf5819d3dc515264b0e0ffca731/jetified-qisdk-1.7.5/AndroidManifest.xml:6:5-8:41
+MERGED from [androidx.fragment:fragment:1.1.0] /home/benoit.cordier/.gradle/caches/transforms-2/files-2.1/ce61250d0f7070aaab97d5c03ab2ab2e/fragment-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] /home/benoit.cordier/.gradle/caches/transforms-2/files-2.1/ce61250d0f7070aaab97d5c03ab2ab2e/fragment-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] /home/benoit.cordier/.gradle/caches/transforms-2/files-2.1/5a84463fe3bd90b9ee3ed76258f5efd9/jetified-appcompat-resources-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] /home/benoit.cordier/.gradle/caches/transforms-2/files-2.1/5a84463fe3bd90b9ee3ed76258f5efd9/jetified-appcompat-resources-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/benoit.cordier/.gradle/caches/transforms-2/files-2.1/385ad0333dd34005ac3b322f68c176b9/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/benoit.cordier/.gradle/caches/transforms-2/files-2.1/385ad0333dd34005ac3b322f68c176b9/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/benoit.cordier/.gradle/caches/transforms-2/files-2.1/32e32c376d22cae962a95f2aba892822/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/benoit.cordier/.gradle/caches/transforms-2/files-2.1/32e32c376d22cae962a95f2aba892822/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/benoit.cordier/.gradle/caches/transforms-2/files-2.1/c3d8ec33b66c793058ded980a54c4fd5/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/benoit.cordier/.gradle/caches/transforms-2/files-2.1/c3d8ec33b66c793058ded980a54c4fd5/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0] /home/benoit.cordier/.gradle/caches/transforms-2/files-2.1/4d3e32c2f901863288c7ff80fcf0967a/jetified-activity-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] /home/benoit.cordier/.gradle/caches/transforms-2/files-2.1/4d3e32c2f901863288c7ff80fcf0967a/jetified-activity-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/benoit.cordier/.gradle/caches/transforms-2/files-2.1/3cf213e33fb5a76421a4e937ff33f07e/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/benoit.cordier/.gradle/caches/transforms-2/files-2.1/3cf213e33fb5a76421a4e937ff33f07e/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/benoit.cordier/.gradle/caches/transforms-2/files-2.1/bde687302d742df89f7d227a2e48b0d9/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/benoit.cordier/.gradle/caches/transforms-2/files-2.1/bde687302d742df89f7d227a2e48b0d9/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.0.0] /home/benoit.cordier/.gradle/caches/transforms-2/files-2.1/e968a555a0e08b03627a3441cae31e6b/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /home/benoit.cordier/.gradle/caches/transforms-2/files-2.1/e968a555a0e08b03627a3441cae31e6b/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.3.1] /home/benoit.cordier/.gradle/caches/transforms-2/files-2.1/905808b10bc47511b6c6896a37787f2b/core-1.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.3.1] /home/benoit.cordier/.gradle/caches/transforms-2/files-2.1/905808b10bc47511b6c6896a37787f2b/core-1.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [com.aldebaran:qisdk-model:1.7.5] /home/benoit.cordier/.gradle/caches/transforms-2/files-2.1/8df7de83e7b7bf52c164cda9dfb8ccf1/jetified-qisdk-model-1.7.5/AndroidManifest.xml:6:5-8:41
+MERGED from [com.aldebaran:qisdk-model:1.7.5] /home/benoit.cordier/.gradle/caches/transforms-2/files-2.1/8df7de83e7b7bf52c164cda9dfb8ccf1/jetified-qisdk-model-1.7.5/AndroidManifest.xml:6:5-8:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/benoit.cordier/.gradle/caches/transforms-2/files-2.1/28174e475fcfd6ae966ed5772f6694ac/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/benoit.cordier/.gradle/caches/transforms-2/files-2.1/28174e475fcfd6ae966ed5772f6694ac/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/benoit.cordier/.gradle/caches/transforms-2/files-2.1/3c1a5ebf565097fe10667d6b9a2c1703/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/benoit.cordier/.gradle/caches/transforms-2/files-2.1/3c1a5ebf565097fe10667d6b9a2c1703/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /home/benoit.cordier/.gradle/caches/transforms-2/files-2.1/3f5e37635a712470204c0315e55f1003/lifecycle-runtime-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /home/benoit.cordier/.gradle/caches/transforms-2/files-2.1/3f5e37635a712470204c0315e55f1003/lifecycle-runtime-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /home/benoit.cordier/.gradle/caches/transforms-2/files-2.1/552d05fff7df0b1caee9db39c74659fe/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /home/benoit.cordier/.gradle/caches/transforms-2/files-2.1/552d05fff7df0b1caee9db39c74659fe/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.0.0] /home/benoit.cordier/.gradle/caches/transforms-2/files-2.1/8a52da53b02a83b08615debb9b2e109c/jetified-savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] /home/benoit.cordier/.gradle/caches/transforms-2/files-2.1/8a52da53b02a83b08615debb9b2e109c/jetified-savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/benoit.cordier/.gradle/caches/transforms-2/files-2.1/3e5d045fdd42de39d437ce94a2ff87c7/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/benoit.cordier/.gradle/caches/transforms-2/files-2.1/3e5d045fdd42de39d437ce94a2ff87c7/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/benoit.cordier/.gradle/caches/transforms-2/files-2.1/ed8cc0ac00b11c0234ef1e5a578c70c1/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/benoit.cordier/.gradle/caches/transforms-2/files-2.1/ed8cc0ac00b11c0234ef1e5a578c70c1/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/benoit.cordier/.gradle/caches/transforms-2/files-2.1/df4d09f70e3f533a2fede8f96085147c/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/benoit.cordier/.gradle/caches/transforms-2/files-2.1/df4d09f70e3f533a2fede8f96085147c/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/benoit.cordier/.gradle/caches/transforms-2/files-2.1/c16c855844b564ee7204d4d6005470fb/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/benoit.cordier/.gradle/caches/transforms-2/files-2.1/c16c855844b564ee7204d4d6005470fb/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.aldebaran:qisdk-core:1.7.5] /home/benoit.cordier/.gradle/caches/transforms-2/files-2.1/c6ff4ffcbd7ecf5f58145b9a7ce178c5/jetified-qisdk-core-1.7.5/AndroidManifest.xml:6:5-8:41
+MERGED from [com.aldebaran:qisdk-core:1.7.5] /home/benoit.cordier/.gradle/caches/transforms-2/files-2.1/c6ff4ffcbd7ecf5f58145b9a7ce178c5/jetified-qisdk-core-1.7.5/AndroidManifest.xml:6:5-8:41
+MERGED from [com.aldebaran:robotservice-client:2.1.2] /home/benoit.cordier/.gradle/caches/transforms-2/files-2.1/0b50e015896edb63f491c51b2d1b7e88/jetified-robotservice-client-2.1.2/AndroidManifest.xml:6:5-8:41
+MERGED from [com.aldebaran:robotservice-client:2.1.2] /home/benoit.cordier/.gradle/caches/transforms-2/files-2.1/0b50e015896edb63f491c51b2d1b7e88/jetified-robotservice-client-2.1.2/AndroidManifest.xml:6:5-8:41
+INJECTED from /home/benoit.cordier/AndroidStudioProjects/pepper_app_launcher/app/src/main/AndroidManifest.xml
+INJECTED from /home/benoit.cordier/AndroidStudioProjects/pepper_app_launcher/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/benoit.cordier/AndroidStudioProjects/pepper_app_launcher/app/src/main/AndroidManifest.xml
+		ADDED from /home/benoit.cordier/AndroidStudioProjects/pepper_app_launcher/app/src/main/AndroidManifest.xml
+		INJECTED from /home/benoit.cordier/AndroidStudioProjects/pepper_app_launcher/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/benoit.cordier/AndroidStudioProjects/pepper_app_launcher/app/src/main/AndroidManifest.xml
+		ADDED from /home/benoit.cordier/AndroidStudioProjects/pepper_app_launcher/app/src/main/AndroidManifest.xml
+		INJECTED from /home/benoit.cordier/AndroidStudioProjects/pepper_app_launcher/app/src/main/AndroidManifest.xml
+uses-permission#com.aldebaran.permission.ROBOT
+ADDED from [com.aldebaran:qisdk:1.7.5] /home/benoit.cordier/.gradle/caches/transforms-2/files-2.1/3e7cbaf5819d3dc515264b0e0ffca731/jetified-qisdk-1.7.5/AndroidManifest.xml:10:5-70
+	android:name
+		ADDED from [com.aldebaran:qisdk:1.7.5] /home/benoit.cordier/.gradle/caches/transforms-2/files-2.1/3e7cbaf5819d3dc515264b0e0ffca731/jetified-qisdk-1.7.5/AndroidManifest.xml:10:22-67
+uses-permission#android.permission.INTERNET
+ADDED from [com.aldebaran:qisdk:1.7.5] /home/benoit.cordier/.gradle/caches/transforms-2/files-2.1/3e7cbaf5819d3dc515264b0e0ffca731/jetified-qisdk-1.7.5/AndroidManifest.xml:11:5-67
+	android:name
+		ADDED from [com.aldebaran:qisdk:1.7.5] /home/benoit.cordier/.gradle/caches/transforms-2/files-2.1/3e7cbaf5819d3dc515264b0e0ffca731/jetified-qisdk-1.7.5/AndroidManifest.xml:11:22-64
+meta-data#qisdk_version
+ADDED from [com.aldebaran:qisdk:1.7.5] /home/benoit.cordier/.gradle/caches/transforms-2/files-2.1/3e7cbaf5819d3dc515264b0e0ffca731/jetified-qisdk-1.7.5/AndroidManifest.xml:16:9-18:53
+	android:value
+		ADDED from [com.aldebaran:qisdk:1.7.5] /home/benoit.cordier/.gradle/caches/transforms-2/files-2.1/3e7cbaf5819d3dc515264b0e0ffca731/jetified-qisdk-1.7.5/AndroidManifest.xml:18:13-50
+	android:name
+		ADDED from [com.aldebaran:qisdk:1.7.5] /home/benoit.cordier/.gradle/caches/transforms-2/files-2.1/3e7cbaf5819d3dc515264b0e0ffca731/jetified-qisdk-1.7.5/AndroidManifest.xml:17:13-41

@@ -1,0 +1,34 @@
+{
+  "version": 1,
+  "applicationId": "com.softbankrobotics.pepperapplauncher",
+  "variantType": "BASE_APK",
+  "elements": [
+    {
+      "outputType": {
+        "type": "PROCESSED_RES"
+      },
+      "apkData": {
+        "type": "FULL_SPLIT",
+        "splits": [
+          {
+            "filterType": "ABI",
+            "value": "armeabi-v7a"
+          }
+        ],
+        "versionCode": 130,
+        "versionName": "1.3.0",
+        "filterName": "armeabi-v7a",
+        "outputFile": "pepperlauncher-1.3.0-armeabi-v7a-debug.apk",
+        "fullName": "armeabi-v7aDebug",
+        "baseName": "armeabi-v7a-debug",
+        "dirName": "armeabi-v7a/"
+      },
+      "path": "resources-armeabi-v7aDebug.ap_",
+      "properties": {
+        "packageId": "com.softbankrobotics.pepperapplauncher",
+        "split": "",
+        "minSdkVersion": "23"
+      }
+    }
+  ]
+}
